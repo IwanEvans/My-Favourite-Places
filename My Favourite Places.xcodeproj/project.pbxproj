@@ -14,6 +14,7 @@
 		5CE5551B236B834E00F85A9A /* My_Favourite_Places.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5CE55519236B834E00F85A9A /* My_Favourite_Places.xcdatamodeld */; };
 		5CE5551D236B835000F85A9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CE5551C236B835000F85A9A /* Assets.xcassets */; };
 		5CE55520236B835000F85A9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CE5551E236B835000F85A9A /* LaunchScreen.storyboard */; };
+		5CE9674F23708F9A0076C34D /* PlacesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE9674E23708F9A0076C34D /* PlacesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5CE5551C236B835000F85A9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5CE5551F236B835000F85A9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5CE55521236B835000F85A9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CE9674E23708F9A0076C34D /* PlacesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5CE55512236B834E00F85A9A /* SceneDelegate.swift */,
 				5CE55514236B834E00F85A9A /* ViewController.swift */,
 				5CE55516236B834E00F85A9A /* Main.storyboard */,
+				5CE9674E23708F9A0076C34D /* PlacesViewController.swift */,
 				5CE5551C236B835000F85A9A /* Assets.xcassets */,
 				5CE5551E236B835000F85A9A /* LaunchScreen.storyboard */,
 				5CE55521236B835000F85A9A /* Info.plist */,
@@ -143,6 +146,7 @@
 			files = (
 				5CE55515236B834E00F85A9A /* ViewController.swift in Sources */,
 				5CE55511236B834E00F85A9A /* AppDelegate.swift in Sources */,
+				5CE9674F23708F9A0076C34D /* PlacesViewController.swift in Sources */,
 				5CE5551B236B834E00F85A9A /* My_Favourite_Places.xcdatamodeld in Sources */,
 				5CE55513236B834E00F85A9A /* SceneDelegate.swift in Sources */,
 			);
